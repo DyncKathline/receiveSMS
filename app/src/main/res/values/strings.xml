@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">receiveSMS</string>
+    <string name="smscontent">获取短信内容</string>
+</resources>
